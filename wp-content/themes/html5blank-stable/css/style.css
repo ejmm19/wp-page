@@ -1,0 +1,18 @@
+@font-face {
+    font-family: HelveticaNeueRoman;
+    src: url(../fonts/HelveticaNeue-Roman.otf);
+}
+@font-face {
+    font-family: HelveticaNeueLTStd;
+    src: url(../fonts/HelveticaNeueLTStd-Md.otf);
+}
+#nav-top-odicasa{
+    background: #000000;
+    padding: .2em 3em .2em 3em;
+}
+#nav-top-odicasa > a.nav-link{
+    color: #81858c;
+    font-family: HelveticaNeueLTStd;
+    font-size: .8em;
+    text-transform: uppercase;
+}
